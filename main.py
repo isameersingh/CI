@@ -40,3 +40,4 @@ def save_to_json(data, json_path):
 pdf_path = r"C:\Users\User\Downloads\SUR_APP1_Commercial2 1.pdf"
 form_data = extract_form_data(pdf_path)
 print(form_data)
+print("Thankyou")
